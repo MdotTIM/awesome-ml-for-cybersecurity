@@ -148,6 +148,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 
 ## [↑](#table-of-contents) Tutorials
 
+* [Machine Learning for Phishing Website Detection](https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/)
 * [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
 * [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
